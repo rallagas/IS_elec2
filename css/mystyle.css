@@ -1,0 +1,16 @@
+     h1#headline {
+                font-family: Arial;
+                font-size: 72px;
+                color: blue;
+                margin-bottom: 3px;
+            }
+            h2 {
+                font-family: Arial;
+                color: black;
+                margin-top : 3px;
+            }
+            
+            ul.navigation > li {
+                display: inline;
+                font-family: Arial;
+            }
